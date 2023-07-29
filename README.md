@@ -17,14 +17,14 @@ This is my profile that gives information about myself and the code.
 
 
 
-<!--[![website](./img/twitter-light.svg)](https://twitter.com/hari_haran_js#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/hari_haran_js#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/hari_haran_jsr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/hariharan-baskaran-588b401aa#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hariharan-baskaran-588b401aa#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_mr.hilarious._/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_mr.hilarious._/#gh-dark-mode-only)-->
+[![website](./img/instagram-dark.svg)](https://instagram.com/_mr.hilarious._/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -43,19 +43,7 @@ This is my profile that gives information about myself and the code.
 
 ---
 
-### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [Twitter X](https://www.youtube.com/watch?v=lncE1347QSo)
-- [AI in 5 Minutes: You Won&#39;t Believe How Simple It Is](https://www.youtube.com/watch?v=8hZmvz7GxQ4)
-- [Step-by-Step Guide to JSDoc and TypeScript in Modern JavaScript Projects in 15 Minutes!](https://www.youtube.com/watch?v=oH_-6TyxVhI)
-- [🤔 Should I use TypeScript, JSDoc, or Both?](https://www.youtube.com/watch?v=JTYhDiJiiFI)
-- [The Future of JavaScript &amp; AI in Tech - Evan You at VueJSLive](https://www.youtube.com/watch?v=TwjUuivIrPI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 <!-- 
 ### 📕 Latest Blog Posts 
 
